@@ -14,7 +14,8 @@ A simple and responsive weather application that shows real-time weather informa
 - JavaScript
 - [OpenWeather API](https://openweathermap.org/api)
 ## 🔗 Live Demo
-[Click Here to View](https://tor-username.github.io/weather-app/)
+[Click Here to View](https://codedbyashik.github.io/weather-app/
+)
 
 ## 📷 Screenshots
 ![Weather App Screenshot](images/screenshot.png)
