@@ -1,6 +1,9 @@
 # 🌤 Weather App
 
 A simple and responsive weather application that shows real-time weather information using the OpenWeather API.
+## 🔗 Live Demo
+[Click Here to View](https://tor-username.github.io/weather-app/)
+
 
 ## 🚀 Features
 - Search weather by city name 🌍
